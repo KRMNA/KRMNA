@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KRMNA
-- 🌱 I’m currently learning Google Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me car2mina@yahoo.es
+# health-checks
+Scripts that check the health of my computers
+
+This repo will be populated with lots of fancy checks.
 
 
 <!---
