@@ -3,6 +3,7 @@ Scripts that check the health of my computers
 
 This repo will be populated with lots of fancy checks.
 
+with autoindentification
 
 <!---
 KRMNA/KRMNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
